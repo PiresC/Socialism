@@ -1,0 +1,2 @@
+# Socialism
+ typing game
