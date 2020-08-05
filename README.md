@@ -49,3 +49,6 @@ Walk to explore a stage and attack enemies that are approaching characters by ty
 * Fajar Ibrah Muhammad
 * Felix Yustian
 * Pires Cerullo
+
+## Download link here
+* Download for [MacOS](https://drive.google.com/file/d/1YAizmrPW4CxtENDGp8NFm1EGUQwHb0c5/view?usp=sharing) !
