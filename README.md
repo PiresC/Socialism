@@ -51,5 +51,5 @@ Walk to explore a stage and attack enemies that are approaching characters by ty
 * Pires Cerullo
 
 ## Download link here
-* Download for [Windows](https://drive.google.com/file/d/1uSQn6WQ-glUPHj2md9rCU2oHlPmyVxa0/view?usp=sharing)
+* Download for [Windows](https://drive.google.com/file/d/1uSQn6WQ-glUPHj2md9rCU2oHlPmyVxa0/view?usp=sharing) !
 * Download for [MacOS](https://drive.google.com/file/d/1YAizmrPW4CxtENDGp8NFm1EGUQwHb0c5/view?usp=sharing) !
